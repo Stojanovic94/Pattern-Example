@@ -1,6 +1,6 @@
 # Observer Design Pattern Example: Exam Results Notification System
 
-This repository demonstrates the **Observer (Posmatrač)** design pattern through an example of a system that notifies students when exam results are published. The Observer pattern, a **behavioral design pattern**, establishes a "one-to-many" relationship between a subject and its observers, ensuring dynamic notifications when the subject's state changes.
+This repository demonstrates the **Observer** design pattern through an example of a system that notifies students when exam results are published. The Observer pattern, a **behavioral design pattern**, establishes a "one-to-many" relationship between a subject and its observers, ensuring dynamic notifications when the subject's state changes.
 
 ## Overview of the Observer Design Pattern
 
